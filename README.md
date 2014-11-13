@@ -5,18 +5,18 @@ Welcome to the November 2014 edition of EcoHack SF! This repository will be used
 
 Please use [#ecohack](https://twitter.com/search?f=realtime&q=ecohack&src=typd) on social media. And if you have any questions, hit us up at <a mailto:info@ecohack.org>info@ecohack.org</a>.
 
-### Timing and logistics
+### Projects
+
+Anyone can propose a project on Saturday. But to get the brain juices flowing, please use the [Issues page](https://github.com/EcoHack/ecohacksf/issues) to tell us about your awesome idea or fascinating dataset. Use tags as appropriate (e.g. `dataset` or `project/idea` or whatever).
+
+### Timing
 
 9:00-9:45 - breakfast  
-9:45-10:15 - get started, project presentations, etc.
+9:45-10:15 - get started, project presentations, etc.  
 10:15 onward - hack!  
 12:30ish - lunch  
 6:30pm - dinner  
 7:00pm - present your hack!
-
-### Projects
-
-Anyone can propose a project on Saturday. But to get the brain juices flowing, please use the [Issues page](https://github.com/EcoHack/ecohacksf/issues) to tell us about your awesome idea or fascinating dataset. Use tags as appropriate (e.g. `dataset` or `project/idea` or whatever).
 
 ### Directions
 
