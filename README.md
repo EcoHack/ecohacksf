@@ -9,7 +9,7 @@ Please use [#ecohack](https://twitter.com/search?f=realtime&q=ecohack&src=typd) 
 
 Anyone can propose a project on Saturday. But to get the brain juices flowing, please use the [Issues page](https://github.com/EcoHack/ecohacksf/issues) to tell us about your awesome idea or fascinating dataset. Use tags as appropriate (e.g. `dataset` or `project/idea` or whatever).
 
-### Timing
+### Timing on Saturday
 
 9:00-9:45 - breakfast  
 9:45-10:15 - get started, project presentations, etc.  
@@ -17,6 +17,8 @@ Anyone can propose a project on Saturday. But to get the brain juices flowing, p
 12:30ish - lunch  
 6:30pm - dinner  
 7:00pm - present your hack!
+
+p.s. we're not meeting on Sunday, unlike the other EcoHack locations.
 
 ### Directions
 
